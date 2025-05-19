@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['5491168352204', 'FG', true],
-  ['5493794297363'],
-  ['59172945992']
+  ['212637915359', 'FG', true],
+  ['212667903423'],
+  ['212631189719']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.prems = ['212637915359', '212631189719']
 global.botNumber = [''] 
 global.APIs = { // API Prefix
   // name: 'https://website' 
@@ -22,11 +22,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98' 
+global.packname = 'الستيكر ذا بتاع جواد اللي يسرقو gay' 
+global.author = '@fang7x' 
 
 //--info FG
-global.botName = 'DyLux'
+global.botName = 'IsHaQ'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-bot' 
 global.fgyt = 'https://youtube.com/fg98f'
