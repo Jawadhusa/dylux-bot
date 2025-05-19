@@ -3,14 +3,14 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['5491168352204', 'FG', true],
-  ['5493794297363'],
-  ['59172945992']
+  ['212637915359', 'FG', true],
+  ['212667903423'],
+  ['212631189719']
 ] //Numeros de owner 
 
 global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
-global.botNumber = [''] 
+global.prems = ['212637915359', '212631189719']
+global.botNumber = ['212637915359'] 
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -18,16 +18,16 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.fgmods.xyz': 'fg_9XdnzCdQ' //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
+  'https://api.fgmods.xyz': 'fg_REboJaSl' //--- 100 de límite diario --- Regístrese en https://api.fgmods.xyz/
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
+global.packname = 'الستيكر ذا بتاع جواد اللي يسرقو gay' 
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'DyLux'
-global.fgig = 'https://instagram.com/fg98_ff' 
+global.botName = 'IsHaQ'
+global.fgig = 'https://instagram.com/fang7x' 
 global.fgsc = 'https://github.com/FG98F/dylux-bot' 
 global.fgyt = 'https://youtube.com/fg98f'
 global.fgpyp = 'https://paypal.me/fg98f'
